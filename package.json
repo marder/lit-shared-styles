@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "lib/index.js",
   "files": [
-    "lib"
+    "lib/**/*.d.ts",
+    "lib/**/*.js"
   ],
   "license": "MIT",
   "dependencies": {
