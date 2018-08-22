@@ -1,5 +1,6 @@
 import { html } from '@polymer/lit-element';
-export const ButtonSharedStyles = html `
+
+export const ButtonSharedStyles = html`
 <style>
   button {
     font-size: inherit;

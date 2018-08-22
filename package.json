@@ -5,5 +5,8 @@
   "files": [
     "lib"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@polymer/lit-element": "^0.5.2"
+  }
 }
