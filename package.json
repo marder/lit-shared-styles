@@ -1,5 +1,5 @@
 {
-  "name": "@rammbulanz/lit-styles",
+  "name": "@rammbulanz/lit-shared-styles",
   "version": "1.0.0",
   "main": "lib/index.js",
   "files": [
